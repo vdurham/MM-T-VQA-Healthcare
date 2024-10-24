@@ -1,0 +1,3 @@
+[submodule "BioViL-T"]
+	path = BioViL-T
+	url = https://github.com/microsoft/hi-ml.git
